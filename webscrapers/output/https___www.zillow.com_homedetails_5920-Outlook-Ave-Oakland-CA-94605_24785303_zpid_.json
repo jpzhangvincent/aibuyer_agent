@@ -1,0 +1,52 @@
+{
+    "Address": "5920 Outlook Ave, Oakland, CA 94605",
+    "Real Estate Agency": "Coldwell Banker Realty",
+    "Price": 395000,
+    "Beds": 3,
+    "Baths": 2,
+    "Sqft": 1699,
+    "Home Type": "Single Family Residence",
+    "Listing Age": "15 Days",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/ef0b8b3788f3321edf5469adbb384dd7-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/26795f3175eca46aaf3fa879404f84a9-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/95401776692dd9a56903723bf6cd49ff-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/0bba883e239496ab6f05e739e7cd6980-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/4e40ddf3254b65a03a4ef1b552640c74-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/67ff840efe9fa9cba8e890671858b4ba-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/0da184f1c1436029449a1b3cb4622b71-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/6f90c2c0d73389fecdd2ba5256abba83-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/4d2bd9e2d64b301177f36cdd8d807b32-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/04ce8ee930168cfd05cd2632db9b8ed3-p_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/5920-Outlook-Ave-Oakland-CA-94605/24785303_zpid/",
+    "Schools": [
+        {
+            "Name": "Burckhalter Elementary School",
+            "Distance": 0.8,
+            "Rating": 4,
+            "Level": "Elementary",
+            "Grades": "K-5",
+            "Type": "Public",
+            "Link": "https://www.greatschools.org/california/oakland/191-Burckhalter-Elementary-School/"
+        },
+        {
+            "Name": "Frick United Academy of Language",
+            "Distance": 0.6,
+            "Rating": 1,
+            "Level": "Middle",
+            "Grades": "6-8",
+            "Type": "Public",
+            "Link": "https://www.greatschools.org/california/oakland/207-Frick-Middle-School/"
+        },
+        {
+            "Name": "Castlemont High",
+            "Distance": 1.7,
+            "Rating": 1,
+            "Level": "High",
+            "Grades": "9-12",
+            "Type": "Public",
+            "Link": "https://www.greatschools.org/california/oakland/25806-Castlemont-High/"
+        }
+    ]
+}

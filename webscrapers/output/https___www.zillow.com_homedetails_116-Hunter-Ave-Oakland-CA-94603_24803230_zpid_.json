@@ -1,0 +1,46 @@
+{
+    "Address": "116 Hunter Ave, Oakland, CA 94603",
+    "Real Estate Agency": "La Rosa Realty Calif",
+    "Price": 545000,
+    "Beds": 3,
+    "Baths": 2,
+    "Sqft": "1,005 sqft",
+    "Home Type": "Single Family Residence",
+    "Listing Age": "10 Days",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/3523776a17c82752091ccf61aa2f01be-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/e38274504de3ca78e888577e8c9d222d-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/aa7f8aa8f0e4baf4813bc0038b6968dc-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/d5f098cda5cebaf8ff8b587b6e590001-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/b710c9290b3f92d9a445fd5c685580c4-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/63fc8e1a482a494fb73d7e2b8c6e3849-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/514bde2b9f495a35b0cd3407f6a14365-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/73212bed176d8fb2a86f2bb912c6e8c3-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/f3d35708612d7d7bfa97ac08cfd4b0da-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/707593427b42fa32a328725181d8bd06-p_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/116-Hunter-Ave-Oakland-CA-94603/24803230_zpid/",
+    "Schools": [
+        {
+            "distance": 0.4,
+            "name": "Brookfield Elementary School",
+            "rating": 1,
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/oakland/188-Brookfield-Elementary-School/"
+        },
+        {
+            "distance": 0.4,
+            "name": "Madison Park Academy 6-12",
+            "rating": 4,
+            "grades": "6-12",
+            "link": "https://www.greatschools.org/california/oakland/234-Madison-Park-Academy-6-12/"
+        },
+        {
+            "distance": 2.4,
+            "name": "Castlemont High",
+            "rating": 1,
+            "grades": "9-12",
+            "link": "https://www.greatschools.org/california/oakland/25806-Castlemont-High/"
+        }
+    ]
+}

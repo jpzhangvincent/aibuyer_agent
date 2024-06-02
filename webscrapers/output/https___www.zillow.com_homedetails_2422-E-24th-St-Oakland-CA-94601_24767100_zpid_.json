@@ -1,0 +1,49 @@
+{
+    "Address": "2422 E 24th St, Oakland, CA 94601",
+    "Real Estate Agency": "Zillow",
+    "Price": 500000,
+    "Beds": 11,
+    "Baths": 4,
+    "Sqft": 2364,
+    "Home Type": "SINGLE_FAMILY",
+    "Listing Age": "72 Days",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/1406b996ff78d4c941c1b7f5219772e3-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/dbcf1368eafd172dbbbaa8dbebe6e4f1-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/71e7e2b094352a0fdea3988588f121b6-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/ba6f5f1c54aeb04c4882a4ff0e8d6142-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/871a8a573140080a99c91ac8bd0a712a-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/875c119ed492d737b91386df8f062ed4-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/59495b0e37c547da21923cd6f2a7fe85-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/f8fd174e4da2f7aa5f068b0d57652990-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/20fe0e7bad6b3ab8db8433dd8e99b2a3-d_d.jpg",
+        "https://photos.zillowstatic.com/fp/69e1068d67b0a820214a02f9ded4ab42-d_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/2422-E-24th-St-Oakland-CA-94601/24767100_zpid/",
+    "Schools": [
+        {
+            "name": "Manzanita Seed",
+            "distance": 0.2,
+            "grades": "K-5",
+            "rating": 3,
+            "level": "Elementary",
+            "link": "https://www.greatschools.org/california/oakland/15026-Manzanita-Seed/"
+        },
+        {
+            "name": "Roosevelt Middle School",
+            "distance": 0.6,
+            "grades": "6-8",
+            "rating": 4,
+            "level": "Middle",
+            "link": "https://www.greatschools.org/california/oakland/254-Roosevelt-Middle-School/"
+        },
+        {
+            "name": "Oakland High School",
+            "distance": 1.2,
+            "grades": "9-12",
+            "rating": 4,
+            "level": "High",
+            "link": "https://www.greatschools.org/california/oakland/247-Oakland-High-School/"
+        }
+    ]
+}

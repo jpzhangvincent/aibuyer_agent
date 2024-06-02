@@ -1,0 +1,55 @@
+{
+    "Address": "10751 Pippin St, Oakland, CA 94603",
+    "Real Estate Agency": {
+        "agent": "Travis Daigre",
+        "agency": "eXp Realty of Northern CA Inc",
+        "agentPhoneNumber": "209-298-9156",
+        "coAgent": "Jordan Camara",
+        "coAgentPhoneNumber": "209-610-5673"
+    },
+    "Price": 350000,
+    "Beds": 4,
+    "Baths": 2,
+    "Sqft": 2250,
+    "Home Type": "Single Family Residence",
+    "Listing Age": "10 Days",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/4a80d1e5a9e7b285aeea4a9570fd7bff-p_h.jpg",
+        "https://photos.zillowstatic.com/fp/0b6f350f689eb96e82509c6ab6fa5d39-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/fcbd15d4cbbc163fad5c9199dee32ec7-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/9197548753dccae0f2a1f16f406d95c1-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/9495537f7235525b5ab49285a56a32a5-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/1ff45a44e52c0adff13a9db3572aff84-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/f00107c2b676090990b24e7af011775b-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/a62dca2946b07192f7d63665c17a25b3-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/f09c6e3c38495ff45c608c9f68057cdf-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/0c1ee03cd0fa07ccc57708eb88039354-p_d.jpg"
+    ],
+    "Listing URL": "/homedetails/10751-Pippin-St-Oakland-CA-94603/24802386_zpid/",
+    "Schools": [
+        {
+            "name": "Fred T. Korematsu Discovery Academy",
+            "distance": 0.3,
+            "rating": 4,
+            "level": "Elementary",
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/oakland/17115-Fred-T.-Korematsu-Discovery-Academy/"
+        },
+        {
+            "name": "Madison Park Academy 6-12",
+            "distance": 0.5,
+            "rating": 4,
+            "level": "Middle",
+            "grades": "6-12",
+            "link": "https://www.greatschools.org/california/oakland/234-Madison-Park-Academy-6-12/"
+        },
+        {
+            "name": "Esperanza Elementary School",
+            "distance": 0.3,
+            "rating": 3,
+            "level": "Elementary",
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/oakland/261-Esperanza-Elementary-School/"
+        }
+    ]
+}

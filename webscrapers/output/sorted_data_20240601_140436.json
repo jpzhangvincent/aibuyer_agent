@@ -1,0 +1,139 @@
+{
+    "listings": [
+        {
+            "address": "39340 Drake Way, Fremont, CA 94538",
+            "price": "$1,599,999",
+            "beds": 4,
+            "baths": 3,
+            "sqft": 1358,
+            "home_type": "House for sale",
+            "listing_age": "18 hours ago",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/902c1472010167ef160f115c220b6d83-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/24c2e75d2a271d165de0abc3fb932ef9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e012543c2af9b32840c8227305b691bd-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/39340-Drake-Way-Fremont-CA-94538/25043783_zpid/"
+        },
+        {
+            "address": "4416 Elaiso Cmn, Fremont, CA 94536",
+            "price": "$699,000",
+            "beds": 2,
+            "baths": 2,
+            "sqft": 988,
+            "home_type": "Townhouse for sale",
+            "listing_age": "Open: Sat 12pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/d571cd19ec6582ad26c0952ff0d813a3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/31bab6582e27b3916b3fe9ee74dd8fd8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0c7a5b120aa0d35bc50dbefd06fbdf1a-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/4416-Elaiso-Cmn-Fremont-CA-94536/25005699_zpid/"
+        },
+        {
+            "address": "615 Emerson St, Fremont, CA 94539",
+            "price": "$3,149,999",
+            "beds": 4,
+            "baths": 4,
+            "sqft": 3110,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/a313745faf714dbb4747574bfa23259f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a8a31d51056c5e4ed5a04d3884932d0b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9de072cbfd22c7b8859d1a439310ea3a-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/615-Emerson-St-Fremont-CA-94539/25022325_zpid/"
+        },
+        {
+            "address": "37728 Carriage Circle Cmn, Fremont, CA 94536",
+            "price": "$1,249,000",
+            "beds": 3,
+            "baths": 3,
+            "sqft": 1662,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/84f2bf094dfd89200e4aff8c9c3c65b8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/05870e33f96144ee00156c34f9e2b8b3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d3db944bfa1bdd415427d7b092d0d1ca-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/37728-Carriage-Circle-Cmn-Fremont-CA-94536/25008829_zpid/"
+        },
+        {
+            "address": "39326 Marbella Terraza, Fremont, CA 94538",
+            "price": "$849,000",
+            "beds": 2,
+            "baths": 2,
+            "sqft": 1158,
+            "home_type": "Condo for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/333dbd709e27981c7e7c9ad7aecfed04-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/847b51c85e8ec2b1cbd3ebab71764b8f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f6a2965595b982617e77bb96eb05a2fe-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/39326-Marbella-Terraza-Fremont-CA-94538/54790300_zpid/"
+        },
+        {
+            "address": "43531 Ellsworth St, Fremont, CA 94539",
+            "price": "$1,649,999",
+            "beds": 4,
+            "baths": 4,
+            "sqft": 2456,
+            "home_type": "New construction",
+            "listing_age": "16 days on Zillow",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/931bf8501ad33a6344f10a578c56843f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/544cbb5b0a2e74f1e251275d8a5f9c3b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/26ef0d5e8a218c35c29bfddcfe128283-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/43531-Ellsworth-St-Fremont-CA-94539/25022827_zpid/"
+        },
+        {
+            "address": "3443 Beard Rd, Fremont, CA 94555",
+            "price": "$1,988,888",
+            "beds": 3,
+            "baths": 2,
+            "sqft": 1344,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 12pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/2cd56a425cea9538dadae1d1df015057-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/13039126259c35229ba3d44c00e3290f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6490168a059cdd539446ee05d5cf401d-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/3443-Beard-Rd-Fremont-CA-94555/25052274_zpid/"
+        },
+        {
+            "address": "3570 Dalton Cmn, Fremont, CA 94536",
+            "price": "$699,000",
+            "beds": 2,
+            "baths": 1,
+            "sqft": 900,
+            "home_type": "Townhouse for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/56f6c4a2ba300fca5a9207255c4a4720-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/adb9f153da8ae37b8695bdbf9d8f74e4-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/76148ba65936ef88b855e9043931ae25-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/3570-Dalton-Cmn-Fremont-CA-94536/25011828_zpid/"
+        },
+        {
+            "address": "4423 Gibraltar Dr, Fremont, CA 94536",
+            "price": "$1,498,800",
+            "beds": 4,
+            "baths": 2,
+            "sqft": 1630,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 2pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/957e83afa5f9e991cc574fa6b5b20cfd-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/483e573a02b4a32dca9f1a8ced26a4b6-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e6b366154a071aa3514a7bb2690daa7c-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/4423-Gibraltar-Dr-Fremont-CA-94536/25050103_zpid/"
+        }
+    ]
+}

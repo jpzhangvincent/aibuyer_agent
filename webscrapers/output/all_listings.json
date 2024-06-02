@@ -1,0 +1,688 @@
+{
+    "listings": [
+        {
+            "Address": "116 Hunter Ave, Oakland, CA 94603",
+            "Real Estate Agency": null,
+            "Price": "$545,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1005,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/3523776a17c82752091ccf61aa2f01be-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e38274504de3ca78e888577e8c9d222d-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/b58f0d626332aee366a25787cd725a89-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/116-Hunter-Ave-Oakland-CA-94603/24803230_zpid/"
+        },
+        {
+            "Address": "5695 Skyline Blvd, Oakland, CA 94611",
+            "Real Estate Agency": null,
+            "Price": "$2,298,000",
+            "Beds": 4,
+            "Baths": 4,
+            "Sqft": 3400,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/fefe9e80d67d08d35126f88cac47fd3e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/913ec4078697b1d5336f53b70de53676-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/7695ca8b58de7df6a425051d8f6f0265-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/5695-Skyline-Blvd-Oakland-CA-94611/2092338107_zpid/"
+        },
+        {
+            "Address": "10751 Pippin St, Oakland, CA 94603",
+            "Real Estate Agency": null,
+            "Price": "$350,000",
+            "Beds": 4,
+            "Baths": 2,
+            "Sqft": 2250,
+            "Home Type": "House",
+            "Listing Age": "10 days",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/4a80d1e5a9e7b285aeea4a9570fd7bff-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0b6f350f689eb96e82509c6ab6fa5d39-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/304c2e2f399dcb81173b5fb8449c2590-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10751-Pippin-St-Oakland-CA-94603/24802386_zpid/"
+        },
+        {
+            "Address": "2121 27th Ave, Oakland, CA 94601",
+            "Real Estate Agency": null,
+            "Price": "$549,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 891,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/2d1c350b1486504e16e631dcb6ce4f8e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/bd361813b123376265dc24033f7a151e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/2b57fa5b1fa788cfa382d4a5c00ed052-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2121-27th-Ave-Oakland-CA-94601/24766411_zpid/"
+        },
+        {
+            "Address": "2324 92nd Ave, Oakland, CA 94603",
+            "Real Estate Agency": "JENNY HE REALTY ASSOCIATES, Ying He DRE #01255995",
+            "Price": "$880,000",
+            "Beds": 8,
+            "Baths": 4,
+            "Sqft": 3346,
+            "Home Type": "Multi-family home",
+            "Listing Age": "19 hours",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/62995430d2ecd1e6f0d119aa5509a445-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/8b701c5cc0a5b31dd82ca5460656e086-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/395efa5eefce4cd6e53878f8c7ba71fd-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2324-92nd-Ave-Oakland-CA-94603/24805261_zpid/"
+        },
+        {
+            "Address": "1450 34th St, Oakland, CA 94608",
+            "Real Estate Agency": null,
+            "Price": "$849,000",
+            "Beds": 3,
+            "Baths": 3,
+            "Sqft": 1643,
+            "Home Type": "Townhouse",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/bad3522261fdb4e70994b1bece9b1a85-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/388917d76d28c561a0b0719d685fdc53-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9f789868f4288484d3377645297a1023-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1450-34th-St-Oakland-CA-94608/64965570_zpid/"
+        },
+        {
+            "Address": "2422 E 24th St, Oakland, CA 94601",
+            "Real Estate Agency": null,
+            "Price": "$500,000",
+            "Beds": 11,
+            "Baths": 4,
+            "Sqft": 2364,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/1406b996ff78d4c941c1b7f5219772e3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/dbcf1368eafd172dbbbaa8dbebe6e4f1-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/fdd553441d8ac2286d3097788f3923cf-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2422-E-24th-St-Oakland-CA-94601/24767100_zpid/"
+        },
+        {
+            "Address": "481 Pedestrian Way, Oakland, CA 94618",
+            "Real Estate Agency": null,
+            "Price": "$795,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 1230,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/f51ec81918d72f1ff6392e7183de2931-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d7f2973e778f071f137b5a4cecf23215-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/72da47a05930d363af3bde0ebdc0a756-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/481-Pedestrian-Way-Oakland-CA-94618/24753724_zpid/"
+        },
+        {
+            "Address": "5920 Outlook Ave, Oakland, CA 94605",
+            "Real Estate Agency": null,
+            "Price": "$395,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1699,
+            "Home Type": "House",
+            "Listing Age": "15 days",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/ef0b8b3788f3321edf5469adbb384dd7-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/26795f3175eca46aaf3fa879404f84a9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/59b8a5748b6a4bab4d7b902ab3cab8ff-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/5920-Outlook-Ave-Oakland-CA-94605/24785303_zpid/"
+        },
+        {
+            "address": "39340 Drake Way, Fremont, CA 94538",
+            "price": "$1,599,999",
+            "beds": 4,
+            "baths": 3,
+            "sqft": 1358,
+            "home_type": "House for sale",
+            "listing_age": "18 hours ago",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/902c1472010167ef160f115c220b6d83-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/24c2e75d2a271d165de0abc3fb932ef9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e012543c2af9b32840c8227305b691bd-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/39340-Drake-Way-Fremont-CA-94538/25043783_zpid/"
+        },
+        {
+            "address": "4416 Elaiso Cmn, Fremont, CA 94536",
+            "price": "$699,000",
+            "beds": 2,
+            "baths": 2,
+            "sqft": 988,
+            "home_type": "Townhouse for sale",
+            "listing_age": "Open: Sat 12pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/d571cd19ec6582ad26c0952ff0d813a3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/31bab6582e27b3916b3fe9ee74dd8fd8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0c7a5b120aa0d35bc50dbefd06fbdf1a-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/4416-Elaiso-Cmn-Fremont-CA-94536/25005699_zpid/"
+        },
+        {
+            "address": "615 Emerson St, Fremont, CA 94539",
+            "price": "$3,149,999",
+            "beds": 4,
+            "baths": 4,
+            "sqft": 3110,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/a313745faf714dbb4747574bfa23259f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a8a31d51056c5e4ed5a04d3884932d0b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9de072cbfd22c7b8859d1a439310ea3a-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/615-Emerson-St-Fremont-CA-94539/25022325_zpid/"
+        },
+        {
+            "address": "37728 Carriage Circle Cmn, Fremont, CA 94536",
+            "price": "$1,249,000",
+            "beds": 3,
+            "baths": 3,
+            "sqft": 1662,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/84f2bf094dfd89200e4aff8c9c3c65b8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/05870e33f96144ee00156c34f9e2b8b3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d3db944bfa1bdd415427d7b092d0d1ca-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/37728-Carriage-Circle-Cmn-Fremont-CA-94536/25008829_zpid/"
+        },
+        {
+            "address": "39326 Marbella Terraza, Fremont, CA 94538",
+            "price": "$849,000",
+            "beds": 2,
+            "baths": 2,
+            "sqft": 1158,
+            "home_type": "Condo for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/333dbd709e27981c7e7c9ad7aecfed04-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/847b51c85e8ec2b1cbd3ebab71764b8f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f6a2965595b982617e77bb96eb05a2fe-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/39326-Marbella-Terraza-Fremont-CA-94538/54790300_zpid/"
+        },
+        {
+            "address": "43531 Ellsworth St, Fremont, CA 94539",
+            "price": "$1,649,999",
+            "beds": 4,
+            "baths": 4,
+            "sqft": 2456,
+            "home_type": "New construction",
+            "listing_age": "16 days on Zillow",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/931bf8501ad33a6344f10a578c56843f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/544cbb5b0a2e74f1e251275d8a5f9c3b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/26ef0d5e8a218c35c29bfddcfe128283-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/43531-Ellsworth-St-Fremont-CA-94539/25022827_zpid/"
+        },
+        {
+            "address": "3443 Beard Rd, Fremont, CA 94555",
+            "price": "$1,988,888",
+            "beds": 3,
+            "baths": 2,
+            "sqft": 1344,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 12pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/2cd56a425cea9538dadae1d1df015057-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/13039126259c35229ba3d44c00e3290f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6490168a059cdd539446ee05d5cf401d-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/3443-Beard-Rd-Fremont-CA-94555/25052274_zpid/"
+        },
+        {
+            "address": "3570 Dalton Cmn, Fremont, CA 94536",
+            "price": "$699,000",
+            "beds": 2,
+            "baths": 1,
+            "sqft": 900,
+            "home_type": "Townhouse for sale",
+            "listing_age": "Open: Sat 1pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/56f6c4a2ba300fca5a9207255c4a4720-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/adb9f153da8ae37b8695bdbf9d8f74e4-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/76148ba65936ef88b855e9043931ae25-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/3570-Dalton-Cmn-Fremont-CA-94536/25011828_zpid/"
+        },
+        {
+            "address": "4423 Gibraltar Dr, Fremont, CA 94536",
+            "price": "$1,498,800",
+            "beds": 4,
+            "baths": 2,
+            "sqft": 1630,
+            "home_type": "House for sale",
+            "listing_age": "Open: Sat 2pm-4pm",
+            "picture_of_home_urls": [
+                "https://photos.zillowstatic.com/fp/957e83afa5f9e991cc574fa6b5b20cfd-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/483e573a02b4a32dca9f1a8ced26a4b6-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e6b366154a071aa3514a7bb2690daa7c-p_e.jpg"
+            ],
+            "listing_url": "https://www.zillow.com/homedetails/4423-Gibraltar-Dr-Fremont-CA-94536/25050103_zpid/"
+        },
+        {
+            "Address": "118 Brush St, Alameda, CA 94501",
+            "Price": "$545,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 717,
+            "Home Type": "House for sale",
+            "Listing Age": "78 days on Zillow",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/667d86c5016c9491c7fba623ba00a2ed-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/ab075a0187269c1c92596977d3d63d69-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/c5f735206c7612844a22fae8d85bddd1-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/118-Brush-St-Alameda-CA-94501/344788855_zpid/"
+        },
+        {
+            "Address": "3253 Madison St, Alameda, CA 94501",
+            "Price": "$998,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1632,
+            "Home Type": "House for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/5c4f39f2504b33cf05385545428e75a0-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/772de6baa68a8d10fda812b6681a160d-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/5acf3b1e721f68f63b5418c5d8657642-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/3253-Madison-St-Alameda-CA-94501/24856536_zpid/"
+        },
+        {
+            "Address": "1627 Union St, Alameda, CA 94501",
+            "Price": "$795,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 852,
+            "Home Type": "House for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/793e6601f780bc3ebdb91b9bb9cadb41-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/2521ebb84526075b96a8ce764db4525a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/8d51d272f8084d625151f5936e308a17-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1627-Union-St-Alameda-CA-94501/24861237_zpid/"
+        },
+        {
+            "Address": "258 Jack London Ave, Alameda, CA 94501",
+            "Price": "$1,495,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 2539,
+            "Home Type": "House for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/2b56c947daaeb2f1754ed2910079fe58-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/cb5317322d97adc618c686aa7ebeca74-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/23da0991c1d6ec3b83b524dd991f60b4-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/258-Jack-London-Ave-Alameda-CA-94501/94686324_zpid/"
+        },
+        {
+            "Address": "1321 Crown Dr, Alameda, CA 94501",
+            "Price": "$1,099,000",
+            "Beds": 3,
+            "Baths": 3,
+            "Sqft": 1946,
+            "Home Type": "Condo for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/f1c12c48afd6e90a84a36a8e0b640502-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/bf6ee82f78570097bdfed1cffab4582d-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/47a7e2940f7606ff4932f352e1720f93-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1321-Crown-Dr-Alameda-CA-94501/24869815_zpid/"
+        },
+        {
+            "Address": "968 Pearl St, Alameda, CA 94501",
+            "Price": "$895,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 1156,
+            "Home Type": "House for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/8092697254d770df180dd8a5b5a2abc5-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/237311515b37c93ed22770debb2cfe5c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/64999994bd9aed0c17d0882154477a12-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/968-Pearl-St-Alameda-CA-94501/24858390_zpid/"
+        },
+        {
+            "Address": "1001 College Ave, Alameda, CA 94501",
+            "Price": "$895,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 1211,
+            "Home Type": "House for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/879ca27b6476a825d3e52b890e6dc563-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a18add9a3e98ba13c17d9f188fcbb82c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/22af37c35161f3275a618dce28d16a56-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1001-College-Ave-Alameda-CA-94501/24858291_zpid/"
+        },
+        {
+            "Address": "843 Santa Clara Ave, Alameda, CA 94501",
+            "Price": "$949,000",
+            "Beds": 4,
+            "Baths": 2,
+            "Sqft": 1872,
+            "Home Type": "Multi-family home for sale",
+            "Listing Age": "Unknown",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/80d1d4029ce98254a8f8f8c46bd1010f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a9e71da0f6b1864a6655f42ca3e23008-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/db7f1cca99755a07947fe79593a22524-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/843-Santa-Clara-Ave-Alameda-CA-94501/24863254_zpid/"
+        },
+        {
+            "Address": "1321 Webster St APT D304, Alameda, CA 94501",
+            "Price": "$365,000",
+            "Beds": 1,
+            "Baths": 1,
+            "Sqft": 499,
+            "Home Type": "Condo for sale",
+            "Listing Age": "22 hours ago",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/76783c8de280d9bcb9cbad8186050afe-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/59868f428dcf5d5973d8211037c56015-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/58d7ff627ca64ba009c84d33d6db011c-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1321-Webster-St-APT-D304-Alameda-CA-94501/24871255_zpid/"
+        },
+        {
+            "Address": "525 Gough St APT 102, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Natalie Rome DRE #01386654",
+            "Price": "$1,380,000",
+            "Beds": 2,
+            "Baths": 3,
+            "Sqft": 1451,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/63354aad3a6c2cdfa0c7a84e28184fc5-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e641caa52f691078f38003ace068887c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/88bb8c2f39e0a913f19358292c55f0cf-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/525-Gough-St-APT-102-San-Francisco-CA-94102/69818931_zpid/"
+        },
+        {
+            "Address": "555 Fulton St #322, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Robert Belli DRE #01913570",
+            "Price": "$289,935",
+            "Beds": 1,
+            "Baths": 1,
+            "Sqft": 640,
+            "Home Type": "Condo for sale",
+            "Listing Age": "82 days on Zillow",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/7aa79819550a6e34176b0620d6f95ac3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/cc12a5ca7bb2af7978f67427eae769ee-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f82bf7f6cb13155a6da44f854483512e-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-322-San-Francisco-CA-94102/325647928_zpid/"
+        },
+        {
+            "Address": "579 Fell St, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Andres Ardila DRE #02080102",
+            "Price": "$1,395,000",
+            "Beds": 3,
+            "Baths": 1,
+            "Sqft": 1389,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/988b0325d86f49d7165a175cccb4038f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/560e47804a98f66e5766b9351590011f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9bdc08ec6e4bf0650923eccedc3778e8-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/579-Fell-St-San-Francisco-CA-94102/123270934_zpid/"
+        },
+        {
+            "Address": "555 Fulton St, San Francisco, CA 94102",
+            "Real Estate Agency": null,
+            "Price": "$725,000",
+            "Beds": 1,
+            "Baths": 1,
+            "Sqft": 714,
+            "Home Type": "Condo for sale",
+            "Listing Age": "3 days on Zillow",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/2cb783cf3442ee717da76a29757038b9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0ef9d2a2a4d1a3ce0e80cc5865110920-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/23d57f38cecb611edc1d40bff0055a0d-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-San-Francisco-CA-94102/2077477984_zpid/"
+        },
+        {
+            "Address": "450 Hayes St UNIT 4A, San Francisco, CA 94102",
+            "Real Estate Agency": "VANGUARD PROPERTIES, Roxana L. Melgarejo DRE #01389721",
+            "Price": "$1,739,000",
+            "Beds": 2,
+            "Baths": 2,
+            "Sqft": 1160,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/5f3a889b749f778f4b7f11c27aa4de69-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4490d80771d5f0621a0d9c35ef68da16-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/7f134870c66e3f62cad5d3b36cf42499-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/450-Hayes-St-UNIT-4A-San-Francisco-CA-94102/249698330_zpid/"
+        },
+        {
+            "Address": "638 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Erin Thompson DRE #01777525",
+            "Price": "$1,195,000",
+            "Beds": 2,
+            "Baths": 3,
+            "Sqft": 1471,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/117a01bc9fbd884a11ba173f016f2705-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d7dc649186be286916dfa36989a5c02f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f66c55cfe15f267b339202d105ab6e19-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/638-Hayes-St-San-Francisco-CA-94102/2088862403_zpid/"
+        },
+        {
+            "Address": "710 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "KW ADVISORS, Tim A. Brown DRE #00580970",
+            "Price": "$1,298,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 1779,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/92a9a8e6bea0490635652e95a46b3f37-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6c61430f77c0f3bf7daf5d07c32a2381-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/073f64f1596189c7d55f5e8444c953ee-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/710-Hayes-St-San-Francisco-CA-94102/2053526881_zpid/"
+        },
+        {
+            "Address": "714 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "KW ADVISORS, Tim A. Brown DRE #00580970",
+            "Price": "$1,595,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 2063,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/d0fc6d6cc7f0b0da391891e2a5be7453-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4a2e465b031392eef5a2baef272f521a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d6a556da28037987174834164ee651f3-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/714-Hayes-St-San-Francisco-CA-94102/348166971_zpid/"
+        },
+        {
+            "Address": "555 Fulton St UNIT 502, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Susie Lee DRE #02054948",
+            "Price": "$1,149,000",
+            "Beds": 2,
+            "Baths": 2,
+            "Sqft": 1005,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/58fd23d39c1768b38f0e86419f5523f1-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9a9b56740e82b136a9eda678775c1dd0-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/984c4b1fe0115df564ff42ecd8f2fc23-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-UNIT-502-San-Francisco-CA-94102/325648222_zpid/"
+        },
+        {
+            "Address": "20488 Stevens Creek Blvd APT 2313, Cupertino, CA 95014",
+            "Price": "$1,478,888",
+            "Beds": 3,
+            "Baths": 3,
+            "Sqft": 1724,
+            "Home Type": "Condo for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/1ea127bdbb493e2df6c6512255c7ff6a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f013f0bfc22e36ba9b8f771659d508f2-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0f4df0efc7bc8a0d3db05cd6c6a0c324-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/20488-Stevens-Creek-Blvd-APT-2313-Cupertino-CA-95014/64446305_zpid/"
+        },
+        {
+            "Address": "22071 Hibiscus Dr, Cupertino, CA 95014",
+            "Price": "$2,399,888",
+            "Beds": 3,
+            "Baths": 1,
+            "Sqft": 1425,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/0ba3ca592738becc0e368d5b6dd3181a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e12db91f8bfe5f8042b28fd87acf6597-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/8e87c1b7e674d2e12e2a53f1cf7302f8-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/22071-Hibiscus-Dr-Cupertino-CA-95014/19625022_zpid/"
+        },
+        {
+            "Address": "20925 Jollyman Ln, Cupertino, CA 95014",
+            "Price": "$3,880,000",
+            "Beds": 5,
+            "Baths": 4,
+            "Sqft": 2873,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/8df36746d30a25cdf188eca77c76b9c8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4e07fa64b7becb93df20757bb7f666ce-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/666a7ab14ee91f8130d874e0fbe80f30-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/20925-Jollyman-Ln-Cupertino-CA-95014/82818087_zpid/"
+        },
+        {
+            "Address": "10827 Minette Dr, Cupertino, CA 95014",
+            "Price": "$4,298,000",
+            "Beds": 5,
+            "Baths": 5,
+            "Sqft": 3006,
+            "Home Type": "New construction",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/515772a225e2bb05096f72fe91437c62-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d26cf1b42ea0f216d4724f1f9680d77b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/ed2d2c0bb9d489cc9cd2ebce614a273a-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10827-Minette-Dr-Cupertino-CA-95014/19644685_zpid/"
+        },
+        {
+            "Address": "10930 Miramonte Rd, Cupertino, CA 95014",
+            "Price": "$4,375,000",
+            "Beds": 5,
+            "Baths": 4,
+            "Sqft": 4043,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/35705663f6c0170701aacecbeb682dc0-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/92b811298f04ed23dadbc03f01866ddf-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/aa3a95bf6bcf4fedbb89475b111c3800-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10930-Miramonte-Rd-Cupertino-CA-95014/19632421_zpid/"
+        },
+        {
+            "Address": "10228 N Stelling Rd, Cupertino, CA 95014",
+            "Price": "$3,998,000",
+            "Beds": 5,
+            "Baths": 5,
+            "Sqft": 3795,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/b3e8c256c0ec05761ef9bfd3264681ca-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/27ef5458c828dd17a65be8f819c173a8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/b2b3176bdd7e77350a16b1e5e8c24557-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10228-N-Stelling-Rd-Cupertino-CA-95014/19626036_zpid/"
+        },
+        {
+            "Address": "10326 Prune Tree Ln, Cupertino, CA 95014",
+            "Price": "$4,888,000",
+            "Beds": 5,
+            "Baths": 6,
+            "Sqft": 4527,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/a2c9896b81d88f17cbebf5d82b3c557b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a9704fb65552730f25b6eea773503b9f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9c44f011b8b18a347e4197da26851842-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10326-Prune-Tree-Ln-Cupertino-CA-95014/19619593_zpid/"
+        },
+        {
+            "Address": "18325 Chelmsford Dr, Cupertino, CA 95014",
+            "Price": "$3,598,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 2741,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/32cb691518f401d98894e4ba2945bb3f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/eb276ca6192ab3afe93cf92f850633ce-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/942fd9a3d20c3ceaf8b36cf495286251-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/18325-Chelmsford-Dr-Cupertino-CA-95014/19644194_zpid/"
+        },
+        {
+            "Address": "19764 La Mar Dr, Cupertino, CA 95014",
+            "Price": "$2,980,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1374,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/59bc04672446760ea2c49d8175de231c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/33f61d678089486d6406803155f04d32-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6e843c295aacdc24c3d710dab9406833-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/19764-La-Mar-Dr-Cupertino-CA-95014/19639142_zpid/"
+        }
+    ]
+}
