@@ -1,0 +1,55 @@
+{
+    "Address": "481 Pedestrian Way, Oakland, CA 94618",
+    "Real Estate Agency": [
+        "Vanguard Properties, Inc.",
+        "Jennie A. Flanigan"
+    ],
+    "Price": 795000,
+    "Beds": 2,
+    "Baths": 1,
+    "Sqft": 1230,
+    "Home Type": "SINGLE_FAMILY",
+    "Listing Age": "2 Days",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/f51ec81918d72f1ff6392e7183de2931-p_h.jpg",
+        "https://photos.zillowstatic.com/fp/d7f2973e778f071f137b5a4cecf23215-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/dd7243e66fdae55efdaa23876a30d01f-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/6694a7d6269fd7ef9dbc17fcfa49366d-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/9cd11492c4bc3a01f5119173f1cd26ff-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/8ef59c7b3f3b27cb4031f3d0ed4be970-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/0455367387feccc0b55b2d0e23d3376d-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/a18a4aaaaae7797c865da06fc49f2b78-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/583bf1ac57cba6b2a7fd699529cad8ed-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/ac7cb54b45aedd94a1076b28dbf5c22f-p_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/481-Pedestrian-Way-Oakland-CA-94618/24753724_zpid/",
+    "Schools": [
+        {
+            "name": "Chabot Elementary School",
+            "distance": 0.8,
+            "rating": 7,
+            "level": "Elementary",
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/oakland/194-Chabot-Elementary-School/",
+            "type": "Public"
+        },
+        {
+            "name": "Claremont Middle School",
+            "distance": 0.3,
+            "rating": 6,
+            "level": "Middle",
+            "grades": "6-8",
+            "link": "https://www.greatschools.org/california/oakland/195-Claremont-Middle-School/",
+            "type": "Public"
+        },
+        {
+            "name": "Oakland Technical High School",
+            "distance": 0.9,
+            "rating": 7,
+            "level": "High",
+            "grades": "9-12",
+            "link": "https://www.greatschools.org/california/oakland/248-Oakland-Technical-High-School/",
+            "type": "Public"
+        }
+    ]
+}

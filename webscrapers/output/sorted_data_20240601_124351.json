@@ -1,0 +1,148 @@
+{
+    "listings": [
+        {
+            "Address": "525 Gough St APT 102, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Natalie Rome DRE #01386654",
+            "Price": "$1,380,000",
+            "Beds": 2,
+            "Baths": 3,
+            "Sqft": 1451,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/63354aad3a6c2cdfa0c7a84e28184fc5-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e641caa52f691078f38003ace068887c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/88bb8c2f39e0a913f19358292c55f0cf-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/525-Gough-St-APT-102-San-Francisco-CA-94102/69818931_zpid/"
+        },
+        {
+            "Address": "555 Fulton St #322, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Robert Belli DRE #01913570",
+            "Price": "$289,935",
+            "Beds": 1,
+            "Baths": 1,
+            "Sqft": 640,
+            "Home Type": "Condo for sale",
+            "Listing Age": "82 days on Zillow",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/7aa79819550a6e34176b0620d6f95ac3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/cc12a5ca7bb2af7978f67427eae769ee-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f82bf7f6cb13155a6da44f854483512e-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-322-San-Francisco-CA-94102/325647928_zpid/"
+        },
+        {
+            "Address": "579 Fell St, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Andres Ardila DRE #02080102",
+            "Price": "$1,395,000",
+            "Beds": 3,
+            "Baths": 1,
+            "Sqft": 1389,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/988b0325d86f49d7165a175cccb4038f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/560e47804a98f66e5766b9351590011f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9bdc08ec6e4bf0650923eccedc3778e8-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/579-Fell-St-San-Francisco-CA-94102/123270934_zpid/"
+        },
+        {
+            "Address": "555 Fulton St, San Francisco, CA 94102",
+            "Real Estate Agency": null,
+            "Price": "$725,000",
+            "Beds": 1,
+            "Baths": 1,
+            "Sqft": 714,
+            "Home Type": "Condo for sale",
+            "Listing Age": "3 days on Zillow",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/2cb783cf3442ee717da76a29757038b9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0ef9d2a2a4d1a3ce0e80cc5865110920-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/23d57f38cecb611edc1d40bff0055a0d-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-San-Francisco-CA-94102/2077477984_zpid/"
+        },
+        {
+            "Address": "450 Hayes St UNIT 4A, San Francisco, CA 94102",
+            "Real Estate Agency": "VANGUARD PROPERTIES, Roxana L. Melgarejo DRE #01389721",
+            "Price": "$1,739,000",
+            "Beds": 2,
+            "Baths": 2,
+            "Sqft": 1160,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/5f3a889b749f778f4b7f11c27aa4de69-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4490d80771d5f0621a0d9c35ef68da16-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/7f134870c66e3f62cad5d3b36cf42499-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/450-Hayes-St-UNIT-4A-San-Francisco-CA-94102/249698330_zpid/"
+        },
+        {
+            "Address": "638 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Erin Thompson DRE #01777525",
+            "Price": "$1,195,000",
+            "Beds": 2,
+            "Baths": 3,
+            "Sqft": 1471,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/117a01bc9fbd884a11ba173f016f2705-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d7dc649186be286916dfa36989a5c02f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f66c55cfe15f267b339202d105ab6e19-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/638-Hayes-St-San-Francisco-CA-94102/2088862403_zpid/"
+        },
+        {
+            "Address": "710 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "KW ADVISORS, Tim A. Brown DRE #00580970",
+            "Price": "$1,298,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 1779,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/92a9a8e6bea0490635652e95a46b3f37-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6c61430f77c0f3bf7daf5d07c32a2381-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/073f64f1596189c7d55f5e8444c953ee-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/710-Hayes-St-San-Francisco-CA-94102/2053526881_zpid/"
+        },
+        {
+            "Address": "714 Hayes St, San Francisco, CA 94102",
+            "Real Estate Agency": "KW ADVISORS, Tim A. Brown DRE #00580970",
+            "Price": "$1,595,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 2063,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/d0fc6d6cc7f0b0da391891e2a5be7453-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4a2e465b031392eef5a2baef272f521a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d6a556da28037987174834164ee651f3-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/714-Hayes-St-San-Francisco-CA-94102/348166971_zpid/"
+        },
+        {
+            "Address": "555 Fulton St UNIT 502, San Francisco, CA 94102",
+            "Real Estate Agency": "COMPASS, Susie Lee DRE #02054948",
+            "Price": "$1,149,000",
+            "Beds": 2,
+            "Baths": 2,
+            "Sqft": 1005,
+            "Home Type": "Condo for sale",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/58fd23d39c1768b38f0e86419f5523f1-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9a9b56740e82b136a9eda678775c1dd0-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/984c4b1fe0115df564ff42ecd8f2fc23-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/555-Fulton-St-UNIT-502-San-Francisco-CA-94102/325648222_zpid/"
+        }
+    ]
+}

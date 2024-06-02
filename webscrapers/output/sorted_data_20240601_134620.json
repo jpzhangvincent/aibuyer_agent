@@ -1,0 +1,130 @@
+{
+    "listings": [
+        {
+            "Address": "20488 Stevens Creek Blvd APT 2313, Cupertino, CA 95014",
+            "Price": "$1,478,888",
+            "Beds": 3,
+            "Baths": 3,
+            "Sqft": 1724,
+            "Home Type": "Condo for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/1ea127bdbb493e2df6c6512255c7ff6a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/f013f0bfc22e36ba9b8f771659d508f2-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0f4df0efc7bc8a0d3db05cd6c6a0c324-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/20488-Stevens-Creek-Blvd-APT-2313-Cupertino-CA-95014/64446305_zpid/"
+        },
+        {
+            "Address": "22071 Hibiscus Dr, Cupertino, CA 95014",
+            "Price": "$2,399,888",
+            "Beds": 3,
+            "Baths": 1,
+            "Sqft": 1425,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/0ba3ca592738becc0e368d5b6dd3181a-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e12db91f8bfe5f8042b28fd87acf6597-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/8e87c1b7e674d2e12e2a53f1cf7302f8-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/22071-Hibiscus-Dr-Cupertino-CA-95014/19625022_zpid/"
+        },
+        {
+            "Address": "20925 Jollyman Ln, Cupertino, CA 95014",
+            "Price": "$3,880,000",
+            "Beds": 5,
+            "Baths": 4,
+            "Sqft": 2873,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/8df36746d30a25cdf188eca77c76b9c8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/4e07fa64b7becb93df20757bb7f666ce-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/666a7ab14ee91f8130d874e0fbe80f30-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/20925-Jollyman-Ln-Cupertino-CA-95014/82818087_zpid/"
+        },
+        {
+            "Address": "10827 Minette Dr, Cupertino, CA 95014",
+            "Price": "$4,298,000",
+            "Beds": 5,
+            "Baths": 5,
+            "Sqft": 3006,
+            "Home Type": "New construction",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/515772a225e2bb05096f72fe91437c62-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d26cf1b42ea0f216d4724f1f9680d77b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/ed2d2c0bb9d489cc9cd2ebce614a273a-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10827-Minette-Dr-Cupertino-CA-95014/19644685_zpid/"
+        },
+        {
+            "Address": "10930 Miramonte Rd, Cupertino, CA 95014",
+            "Price": "$4,375,000",
+            "Beds": 5,
+            "Baths": 4,
+            "Sqft": 4043,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/35705663f6c0170701aacecbeb682dc0-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/92b811298f04ed23dadbc03f01866ddf-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/aa3a95bf6bcf4fedbb89475b111c3800-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10930-Miramonte-Rd-Cupertino-CA-95014/19632421_zpid/"
+        },
+        {
+            "Address": "10228 N Stelling Rd, Cupertino, CA 95014",
+            "Price": "$3,998,000",
+            "Beds": 5,
+            "Baths": 5,
+            "Sqft": 3795,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/b3e8c256c0ec05761ef9bfd3264681ca-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/27ef5458c828dd17a65be8f819c173a8-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/b2b3176bdd7e77350a16b1e5e8c24557-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10228-N-Stelling-Rd-Cupertino-CA-95014/19626036_zpid/"
+        },
+        {
+            "Address": "10326 Prune Tree Ln, Cupertino, CA 95014",
+            "Price": "$4,888,000",
+            "Beds": 5,
+            "Baths": 6,
+            "Sqft": 4527,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/a2c9896b81d88f17cbebf5d82b3c557b-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/a9704fb65552730f25b6eea773503b9f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9c44f011b8b18a347e4197da26851842-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10326-Prune-Tree-Ln-Cupertino-CA-95014/19619593_zpid/"
+        },
+        {
+            "Address": "18325 Chelmsford Dr, Cupertino, CA 95014",
+            "Price": "$3,598,000",
+            "Beds": 4,
+            "Baths": 3,
+            "Sqft": 2741,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/32cb691518f401d98894e4ba2945bb3f-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/eb276ca6192ab3afe93cf92f850633ce-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/942fd9a3d20c3ceaf8b36cf495286251-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/18325-Chelmsford-Dr-Cupertino-CA-95014/19644194_zpid/"
+        },
+        {
+            "Address": "19764 La Mar Dr, Cupertino, CA 95014",
+            "Price": "$2,980,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1374,
+            "Home Type": "House for sale",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/59bc04672446760ea2c49d8175de231c-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/33f61d678089486d6406803155f04d32-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/6e843c295aacdc24c3d710dab9406833-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/19764-La-Mar-Dr-Cupertino-CA-95014/19639142_zpid/"
+        }
+    ]
+}

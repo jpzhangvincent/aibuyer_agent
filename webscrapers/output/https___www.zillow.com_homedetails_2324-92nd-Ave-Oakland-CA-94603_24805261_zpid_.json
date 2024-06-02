@@ -1,0 +1,49 @@
+{
+    "Address": "2324 92nd Ave, Oakland, CA 94603",
+    "Real Estate Agency": "Zillow, Inc.",
+    "Price": 880000,
+    "Beds": 8,
+    "Baths": 4,
+    "Sqft": 3346,
+    "Home Type": "MultiFamily",
+    "Listing Age": "0",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/62995430d2ecd1e6f0d119aa5509a445-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/8b701c5cc0a5b31dd82ca5460656e086-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/d40a845641469f11d71d7f8fcf8eae84-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/f96a3909fdd13c6ccf70cc095453d1c6-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/06734b0727bdc51f4f657d1d49e45706-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/9858e5141e0c8681ad54f82811a02a71-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/8425f35b26ae2d64c89c089eaab31634-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/dc1a31379f2b81d8d14710f1d8d5a044-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/a61ee8f642c46093ca9263f6a8a4bd19-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/fe5a020233b81e2c7d179b682ed83ff2-p_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/2324-92nd-Ave-Oakland-CA-94603/24805261_zpid/",
+    "Schools": [
+        {
+            "distance": 0.5,
+            "name": "Reach Academy",
+            "rating": 2,
+            "level": "Elementary",
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/oakland/15025-Reach-Academy/"
+        },
+        {
+            "distance": 0.5,
+            "name": "Alliance Academy",
+            "rating": null,
+            "level": "Middle",
+            "grades": "6-8",
+            "link": "https://www.greatschools.org/california/oakland/17059-Alliance-Academy/"
+        },
+        {
+            "distance": 0.4,
+            "name": "Castlemont High",
+            "rating": 1,
+            "level": "High",
+            "grades": "9-12",
+            "link": "https://www.greatschools.org/california/oakland/25806-Castlemont-High/"
+        }
+    ]
+}

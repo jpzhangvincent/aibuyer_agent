@@ -1,0 +1,148 @@
+{
+    "listings": [
+        {
+            "Address": "116 Hunter Ave, Oakland, CA 94603",
+            "Real Estate Agency": null,
+            "Price": "$545,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1005,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/3523776a17c82752091ccf61aa2f01be-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/e38274504de3ca78e888577e8c9d222d-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/b58f0d626332aee366a25787cd725a89-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/116-Hunter-Ave-Oakland-CA-94603/24803230_zpid/"
+        },
+        {
+            "Address": "5695 Skyline Blvd, Oakland, CA 94611",
+            "Real Estate Agency": null,
+            "Price": "$2,298,000",
+            "Beds": 4,
+            "Baths": 4,
+            "Sqft": 3400,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/fefe9e80d67d08d35126f88cac47fd3e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/913ec4078697b1d5336f53b70de53676-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/7695ca8b58de7df6a425051d8f6f0265-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/5695-Skyline-Blvd-Oakland-CA-94611/2092338107_zpid/"
+        },
+        {
+            "Address": "10751 Pippin St, Oakland, CA 94603",
+            "Real Estate Agency": null,
+            "Price": "$350,000",
+            "Beds": 4,
+            "Baths": 2,
+            "Sqft": 2250,
+            "Home Type": "House",
+            "Listing Age": "10 days",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/4a80d1e5a9e7b285aeea4a9570fd7bff-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/0b6f350f689eb96e82509c6ab6fa5d39-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/304c2e2f399dcb81173b5fb8449c2590-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/10751-Pippin-St-Oakland-CA-94603/24802386_zpid/"
+        },
+        {
+            "Address": "2121 27th Ave, Oakland, CA 94601",
+            "Real Estate Agency": null,
+            "Price": "$549,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 891,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/2d1c350b1486504e16e631dcb6ce4f8e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/bd361813b123376265dc24033f7a151e-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/2b57fa5b1fa788cfa382d4a5c00ed052-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2121-27th-Ave-Oakland-CA-94601/24766411_zpid/"
+        },
+        {
+            "Address": "2324 92nd Ave, Oakland, CA 94603",
+            "Real Estate Agency": "JENNY HE REALTY ASSOCIATES, Ying He DRE #01255995",
+            "Price": "$880,000",
+            "Beds": 8,
+            "Baths": 4,
+            "Sqft": 3346,
+            "Home Type": "Multi-family home",
+            "Listing Age": "19 hours",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/62995430d2ecd1e6f0d119aa5509a445-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/8b701c5cc0a5b31dd82ca5460656e086-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/395efa5eefce4cd6e53878f8c7ba71fd-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2324-92nd-Ave-Oakland-CA-94603/24805261_zpid/"
+        },
+        {
+            "Address": "1450 34th St, Oakland, CA 94608",
+            "Real Estate Agency": null,
+            "Price": "$849,000",
+            "Beds": 3,
+            "Baths": 3,
+            "Sqft": 1643,
+            "Home Type": "Townhouse",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/bad3522261fdb4e70994b1bece9b1a85-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/388917d76d28c561a0b0719d685fdc53-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/9f789868f4288484d3377645297a1023-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/1450-34th-St-Oakland-CA-94608/64965570_zpid/"
+        },
+        {
+            "Address": "2422 E 24th St, Oakland, CA 94601",
+            "Real Estate Agency": null,
+            "Price": "$500,000",
+            "Beds": 11,
+            "Baths": 4,
+            "Sqft": 2364,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/1406b996ff78d4c941c1b7f5219772e3-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/dbcf1368eafd172dbbbaa8dbebe6e4f1-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/fdd553441d8ac2286d3097788f3923cf-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/2422-E-24th-St-Oakland-CA-94601/24767100_zpid/"
+        },
+        {
+            "Address": "481 Pedestrian Way, Oakland, CA 94618",
+            "Real Estate Agency": null,
+            "Price": "$795,000",
+            "Beds": 2,
+            "Baths": 1,
+            "Sqft": 1230,
+            "Home Type": "House",
+            "Listing Age": null,
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/f51ec81918d72f1ff6392e7183de2931-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/d7f2973e778f071f137b5a4cecf23215-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/72da47a05930d363af3bde0ebdc0a756-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/481-Pedestrian-Way-Oakland-CA-94618/24753724_zpid/"
+        },
+        {
+            "Address": "5920 Outlook Ave, Oakland, CA 94605",
+            "Real Estate Agency": null,
+            "Price": "$395,000",
+            "Beds": 3,
+            "Baths": 2,
+            "Sqft": 1699,
+            "Home Type": "House",
+            "Listing Age": "15 days",
+            "Picture of home URLs": [
+                "https://photos.zillowstatic.com/fp/ef0b8b3788f3321edf5469adbb384dd7-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/26795f3175eca46aaf3fa879404f84a9-p_e.jpg",
+                "https://photos.zillowstatic.com/fp/59b8a5748b6a4bab4d7b902ab3cab8ff-p_e.jpg"
+            ],
+            "Listing URL": "https://www.zillow.com/homedetails/5920-Outlook-Ave-Oakland-CA-94605/24785303_zpid/"
+        }
+    ]
+}

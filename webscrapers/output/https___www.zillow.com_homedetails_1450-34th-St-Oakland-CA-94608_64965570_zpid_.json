@@ -1,0 +1,46 @@
+{
+    "Address": "1450 34th St, Oakland, CA 94608",
+    "Real Estate Agency": "Angel Lynn Realty",
+    "Price": 849000,
+    "Beds": 3,
+    "Baths": 3,
+    "Sqft": 1643,
+    "Home Type": "Townhouse",
+    "Listing Age": "23 hours",
+    "Picture of home URLs": [
+        "https://photos.zillowstatic.com/fp/bad3522261fdb4e70994b1bece9b1a85-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/388917d76d28c561a0b0719d685fdc53-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/8b130d7c939c5c74a8a5d20b4809d6c7-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/985cb938cdee1b93a6c29925fd071f7f-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/c7bd884130d5f3be9eb60303a6cd5411-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/e030ce1ea20ba68431630ed8e22f5cfe-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/448469d67d66effe0e91b8d50158e451-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/eba1d2262f81f59f31b29efe25f2cb49-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/01ec797e3cdc97ba81fe6a61388780af-p_d.jpg",
+        "https://photos.zillowstatic.com/fp/ec4f4a963b9cf55824aecf90f55f6247-p_d.jpg"
+    ],
+    "Listing URL": "https://www.zillow.com/homedetails/1450-34th-St-Oakland-CA-94608/64965570_zpid/",
+    "Schools": [
+        {
+            "name": "Hoover Elementary School",
+            "distance": 0.6,
+            "rating": 2,
+            "grades": "K-5",
+            "type": "Public"
+        },
+        {
+            "name": "West Oakland Middle School",
+            "distance": 0.9,
+            "rating": 2,
+            "grades": "6-8",
+            "type": "Public"
+        },
+        {
+            "name": "Mcclymonds High School",
+            "distance": 0.6,
+            "rating": 3,
+            "grades": "9-12",
+            "type": "Public"
+        }
+    ]
+}
