@@ -235,13 +235,13 @@ def retrieve(state):
     # Retrieval
     documents = retriever.invoke(question)
     logger.info(f"Retrived {len(documents)} docs")
-    documents_str = '\n\n'.join([d.page_content + f"URL: {d.metadata['Listing URL']}" for d in documents])
+    documents = [Document(page_content = d.page_content + f"URL: {d.metadata['Listing URL']}") for d in documents]
     logger.info(f"{documents=}")
     if len(documents) == 0:
         logger.warning("No documents found")
 
     
-    return {"documents": documents_str, "question": question}
+    return {"documents": documents, "question": question}
 
 def generate(state):
     """

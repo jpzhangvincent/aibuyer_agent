@@ -1,37 +1,37 @@
-import React, {useState, useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 import { Grid, Paper, Typography, List, ListItem, ListItemText, Button } from '@mui/material';
 import Slider from 'react-slick';
 
 // Mock data for products
 const productsData = [
-    {
-      id: 1,
-      name: "Product 1",
-      images: [
-        'https://photos.zillowstatic.com/fp/9b07794c02cdbbcbb2167383ac072973-p_d.jpg',
-        'https://photos.zillowstatic.com/fp/e8ce6326b26d42675c3f078c1dac8d93-p_d.jpg'
-      ],
-      metadata: {
-        Price: "$49.99",
-        Manufacturer: "Manufacturer A",
-        Warranty: "2 years"
-      }
-    },
-    {
-      id: 2,
-      name: "Product 2",
-      images: [
-        'https://photos.zillowstatic.com/fp/0db3e6ee8baeef0d790002e74b6740f5-p_d.jpg',
-        'https://photos.zillowstatic.com/fp/19c1a41adc8176418b027c5deba975df-p_d.jpg'
-      ],
-      metadata: {
-        Price: "$59.99",
-        Manufacturer: "Manufacturer B",
-        Warranty: "3 years"
-      }
+  {
+    id: 1,
+    name: "Product 1",
+    images: [
+      'https://photos.zillowstatic.com/fp/9b07794c02cdbbcbb2167383ac072973-p_d.jpg',
+      'https://photos.zillowstatic.com/fp/e8ce6326b26d42675c3f078c1dac8d93-p_d.jpg'
+    ],
+    metadata: {
+      Price: "$1,000,000",
+      Location: "San Jose",
+      Built_Year: "1995"
     }
-  ];
-  
+  },
+  {
+    id: 2,
+    name: "Product 2",
+    images: [
+      'https://photos.zillowstatic.com/fp/0db3e6ee8baeef0d790002e74b6740f5-p_d.jpg',
+      'https://photos.zillowstatic.com/fp/19c1a41adc8176418b027c5deba975df-p_d.jpg'
+    ],
+    metadata: {
+      Price: "$700,000",
+      Location: "Fremont",
+      Built_Year: "2001"
+    }
+  }
+];
+
 
 const ProductComparison = () => {
 
@@ -65,8 +65,8 @@ const ProductComparison = () => {
   return (
     <Grid container spacing={2}>
       {products.map(product => (
-        <Grid item xs={12} md={6} key={product.id} style={{padding: '40px'}}>
-          <Paper elevation={4} sx={{ height: '100%', display: 'flex', flexDirection: 'column'}}>
+        <Grid item xs={12} md={6} key={product.id} style={{ padding: '40px' }}>
+          <Paper elevation={4} sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
             <Slider {...settings}>
               {product.images.map((image, index) => (
                 <div key={index}>

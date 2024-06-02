@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { useNavigate} from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
 import ResultsContainer from '../ResultsContainer/ResultsContainer';
@@ -82,11 +82,11 @@ const SubmitButton = styled(NavButton)`
 `;
 
 const LandingPage = () => {
-const [currentQuestion, setCurrentQuestion] = useState(0);
-const [answer, setAnswer] =  useState('');
-const navigate = useNavigate();
+    const [currentQuestion, setCurrentQuestion] = useState(0);
+    const [answer, setAnswer] = useState('');
+    const navigate = useNavigate();
 
-console.log("answer", answer);
+    console.log("answer", answer);
 
     const questions = [
         { question: "Describe your dream home in few words", placeholder: "Describe your dream home in few words" },
@@ -99,7 +99,7 @@ console.log("answer", answer);
     const handleNext = () => {
         if (currentQuestion < questions.length - 1) {
             setCurrentQuestion(currentQuestion + 1);
-            setAnswer('')
+            setAnswer('');
         }
     };
 
@@ -127,26 +127,26 @@ console.log("answer", answer);
 
 
     return (
-        <div style={{background: `url(${backgroundImage}) no-repeat center center / cover`}}>
-        <Container>
-            <FormContainer>
-                <Question>{questions[currentQuestion].question}</Question>
-                <Input 
-                    placeholder={questions[currentQuestion].placeholder} 
-                    value={answer}
-                    onChange={(e) => setAnswer(e.target.value)}
+        <div style={{ background: `url(${backgroundImage}) no-repeat center center / cover` }}>
+            <Container>
+                <FormContainer>
+                    <Question>{questions[currentQuestion].question}</Question>
+                    <Input
+                        placeholder={questions[currentQuestion].placeholder}
+                        value={answer}
+                        onChange={(e) => setAnswer(e.target.value)}
                     // onChange={(e) => setAnswer([{question: questions[currentQuestion] , answer: e.target.value}])} 
-                />
-                <ButtonContainer>
-                    {currentQuestion < questions.length - 1 && (
-                        <NavButton onClick={handleNext}>Next</NavButton>
-                    )}
-                    {currentQuestion === questions.length - 1 && (
-                        <SubmitButton onClick={handleSubmit}>Submit</SubmitButton>
-                    )}
-                </ButtonContainer>
-            </FormContainer>
-        </Container>
+                    />
+                    <ButtonContainer>
+                        {currentQuestion < questions.length - 1 && (
+                            <NavButton onClick={handleNext}>Next</NavButton>
+                        )}
+                        {currentQuestion === questions.length - 1 && (
+                            <SubmitButton onClick={handleSubmit}>Submit</SubmitButton>
+                        )}
+                    </ButtonContainer>
+                </FormContainer>
+            </Container>
         </div>
     );
 };
