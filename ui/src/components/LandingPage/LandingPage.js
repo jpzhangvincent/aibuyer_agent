@@ -99,6 +99,7 @@ console.log("answer", answer);
     const handleNext = () => {
         if (currentQuestion < questions.length - 1) {
             setCurrentQuestion(currentQuestion + 1);
+            setAnswer('')
         }
     };
 
